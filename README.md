@@ -147,3 +147,13 @@ The book mentions OCaml implementation `deptypes` but I did not find this implem
 ## Scala-js
 
 Inside sbt: `fastOptJS`, then open `index.html`.
+
+TODO: look at https://scastie.scala-lang.org/
+
+TODO: look at https://codedot.github.io/lambda/
+
+UI with holes/commands. - smth like literate programming
+
+Old style vintage editors?
+
+Or something with old school vintage UI?
